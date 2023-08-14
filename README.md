@@ -1,7 +1,5 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TypeMIN-nl-Minsik&20Lee&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=TypeMIN&desc=Minsik%20Lee&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&descSize=15&descAlign=15&animation=fadeIn)
+
 <!--
 **TypeMIN/TypeMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
